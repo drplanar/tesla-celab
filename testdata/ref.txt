@@ -1,10 +1,10 @@
-您_PN 知_VV 道_VV 哪_PN 里_PN 是_VC 八_NR 坂_NR 神_NR 社_NR 吗_SP ？_PU
-您_PN 能_VV 告_VV 诉_VV 我_PN 哪_PN 里_PN 是_VC 八_NR 坂_NR 神_NR 社_NR 吗_SP ？_PU
-哪_PN 里_PN 是_VC 八_NR 坂_NR 神_NR 社_NR ？_PU
-哪_DT 条_M 路_NN 是_VC 去_VV 清_VV 水_VV 寺_VV 的_SP ？_PU
-我_PN 怎_AD 么_AD 才_AD 能_VV 到_VV 那_PN 里_PN ？_PU
-去_VV 清_VV 水_VV 寺_VV 要_VV 多_AD 长_JJ 时_NN 间_NN ？_PU
-公_NN 交_NN 车_NN 来_VV 了_AS 。_PU
-现_NT 在_NT 人_NN 们_NN 似_AD 乎_AD 相_AD 当_AD 接_VV 受_VV 对_P 着_P 机_NN 器_NN 说_VV 话_VV 尽_CS 管_CS 因_P 为_P 麦_NN 克_NN 风_NN 的_DEG 位_NN 置_NN 而_MSP 变_VV 得_VV 很_AD 困_VA 难_VA 。_PU
-哪_DT 条_M 路_NN 是_VC 去_VV 清_VV 水_VV 寺_VV 的_SP ？_PU
-打_NN 扰_NN 了_AS 请_VV 问_VV 到_VV 清_NR 水_NR 寺_NR 要_VV 多_AD 长_JJ 时_NN 间_NN ？_PU
+您 知 道 哪 里 是 八 坂 神 社 吗 ？
+您 能 告 诉 我 哪 里 是 八 坂 神 社 吗 ？
+哪 里 是 八 坂 神 社 ？
+哪 条 路 是 去 清 水 寺 的 ？
+我 怎 么 才 能 到 那 里 ？
+去 清 水 寺 要 多 长 时 间 ？
+公 交 车 来 了 。
+现 在 人 们 似 乎 相 当 接 受 对 着 机 器 说 话 尽 管 因 为 麦 克 风 的 位 置 而 变 得 很 困 难 。
+哪 条 路 是 去 清 水 寺 的 ？
+打 扰 了 请 问 到 清 水 寺 要 多 长 时 间 ？

@@ -1,10 +1,10 @@
-你_PN 还_AD 是_AD 八_NR 坂_NR 神_NR 社_NR 和_CC 吗_SP ？_PU
-你_PN 能_VV 告_VV 诉_VV 我_PN 大_NR 阪_NR 中_NR 国_NR 在_P 哪_PN 里_PN ？_PU
-哪_PN 里_PN 是_VC 八_NR 坂_NR 神_NR 社_NR ？_PU
-哪_DT 条_M 路_NN 是_VC 去_VV 清_VV 水_VV 寺_VV ？_PU
-我_PN 怎_AD 么_AD 到_VV 那_PN 里_PN ？_PU
-要_VV 多_AD 长_JJ 时_NN 间_NN 清_VV 水_VV 寺_VV ？_PU
-这_PN 是_VC 我_PN 们_PN 的_DEG 老_NN 板_NN 。_PU
-到_P 目_NT 前_NT 为_LC 止_LC 。_PU 人_NN 似_AD 乎_AD 到_VV 机_NN 器_NN 说_VV 话_VV 的_DEC 哦_IJ ！_PU 很_AD 难_VA 啊_SP 。_PU 因_P 为_P 对_P 着_P 麦_NN 克_NN 风_NN 。_PU
-哪_DT 条_M 路_NN 是_VC 清_VA 水_VA 寺_VA ？_PU
-对_VV 不_VV 起_VV 有_VE 多_AD 长_JJ 时_NN 间_NN 到_VV 清_NR 水_NR 寺_NR ？_PU
+你 还 是 八 坂 神 社 和 吗 ？
+你 能 告 诉 我 大 阪 中 国 在 哪 里 ？
+哪 里 是 八 坂 神 社 ？
+哪 条 路 是 去 清 水 寺 ？
+我 怎 么 到 那 里 ？
+要 多 长 时 间 清 水 寺 ？
+这 是 我 们 的 老 板 。
+到 目 前 为 止 。 人 似 乎 到 机 器 说 话 的 哦 ！ 很 难 啊 。 因 为 对 着 麦 克 风 。
+哪 条 路 是 清 水 寺 ？
+对 不 起 有 多 长 时 间 到 清 水 寺 ？
