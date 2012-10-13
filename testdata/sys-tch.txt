@@ -1,10 +1,10 @@
-你_PN 还是_AD 八坂神社_VV 和_CC 吗_SP ？_PU
-你_PN 能_VV 告诉_VV 我_PN 大阪_NR 中国_NR 在_P 哪里_PN ？_PU
-哪里_PN 是_VC 八坂神社_NN ？_PU
-哪_DT 条_M 路_NN 是_VC 去_VV 清水寺_NR ？_PU
-我_PN 怎么_AD 到_VV 那里_PN ？_PU
-要_VV 多_AD 长_JJ 时间_NN 清水寺_NR ？_PU
-这_PN 是_VC 我们_PN 的_DEG 老板_NN 。_PU
-到_P 目前_NT 为止_LC 。_PU 人_NN 似乎_AD 到_VV 机器_NN 说话_VV 的_DEC 哦_SP ！_PU 很_AD 难_VA 啊_SP 。_PU 因为_P 对着_P 麦克风_NN 。_PU
-哪_DT 条_M 路_NN 是_VC 清水寺_NN ？_PU
-对_P 不_AD 起_VV 有_VE 多_AD 长_JJ 时间_NN 到_VV 清水寺_NN ？_PU
+你_PN 还是_AD 八坂神社_NR 和_CC 吗_SP ？_PU 
+你_PN 能_VV 告诉_VV 我_PN 大阪_NR 中国_NR 在_P 哪里_PN ？_PU 
+哪里_PN 是_VC 八坂神社_NR ？_PU 
+哪_DT 条_M 路_NN 是_VC 去_VV 清水寺_VV ？_PU 
+我_PN 怎么_AD 到_VV 那里_PN ？_PU 
+要_VV 多_AD 长_JJ 时间_NN 清水寺_VV ？_PU 
+这_PN 是_VC 我们_PN 的_DEG 老板_NN 。_PU 
+到_P 目前_NT 为止_LC 。_PU 人_NN 似乎_AD 到_VV 机器_NN 说话_VV 的_DEC 哦_IJ ！_PU 很_AD 难_VA 啊_SP 。_PU 因为_P 对着_P 麦克风_NN 。_PU 
+哪_DT 条_M 路_NN 是_VC 清水寺_VA ？_PU 
+对不起_VV 有_VE 多_AD 长_JJ 时间_NN 到_VV 清水寺_NR ？_PU 
