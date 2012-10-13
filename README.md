@@ -4,9 +4,7 @@ tesla-celab
 This is the implementation of the TESLA-CELAB machine translation evaluation
 metric as describe in the ACL 2012 paper.
 
-    Character-Level Machine Translation Evaluation for Languages with Ambiguous
-    Word Boundaries. Chang Liu and Hwee Tou Ng. 2012. In Proceedings of the
-    50th Annual Meeting of the Association for Computational Linguistics.
+    Character-Level Machine Translation Evaluation for Languages with Ambiguous Word Boundaries. Chang Liu and Hwee Tou Ng. 2012. In Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics.
 
 Contents
 --------
