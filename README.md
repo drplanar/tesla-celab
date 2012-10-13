@@ -10,18 +10,23 @@ metric as describe in the ACL 2012 paper.
 
 The contents of the release are:
 
-- scripts/: the implementation is a single file tc-match.py
-- resources/: the CILIN Chinese synonym dictionary. Required by tc-match.py.
-- testdata/: test data and sample usage.
+- `scripts/`: the implementation is a single file tc-match.py
+- `resources/`: the CILIN Chinese synonym dictionary. Required by tc-match.py.
+- `testdata/`: test data and sample usage.
 
-As an example, go to testdata directory, run example.sh and the output should
-match scores-output exactly. The input files are Chinese texts where characters
-are separated by single spaces. The reason the separation is not done
-automatically is that even in character-based Chinese segmentation, one segment
-is not equivalent to one UTF character. For example, in the following sentence,
-'500' could be considered a single segment depending on your objectives.
+For an example use, go to `testdata`, run `example.sh` and the output should
+match `scores-output` exactly. The input files are Chinese texts where
+characters are separated by single spaces. The reason the separation is not
+done automatically is that even in character-based Chinese segmentation, one
+segment is not always equivalent to one UTF character. For example, in the
+following sentence, '500' could be considered a single segment depending on
+your objectives.
 
     我 想 要 一 把 500 日 元 的 扇 子 。
+
+The output file contains one line for each input sentence, containing the
+TESLA-CELAB score measuring the semantic similarity between the reference
+sentence and the system-generated translation. The score is between 0 and 1.
 
 All files are encoded in UTF-8.
 
