@@ -1,0 +1,10 @@
+您_PN 知道_VV 哪里_PN 是_VC 八坂神社_NN 吗_SP ？_PU
+您_PN 能_VV 告诉_VV 我_PN 哪里_PN 是_VC 八坂神社_NN 吗_SP ？_PU
+哪里_PN 是_VC 八坂神社_NN ？_PU
+哪_DT 条_M 路_NN 是_VC 去_VV 清水寺_NR 的_DEG ？_PU
+我_PN 怎么_AD 才_AD 能_VV 到_VV 那里_PN ？_PU
+去_VV 清水寺_NR 要_VV 多_AD 长_JJ 时间_NN ？_PU
+公交车_NN 来_VV 了_AS 。_PU
+现在_NT 人们_NN 似乎_AD 相当_AD 接受_VV 对着_P 机器_NN 说话_VV 尽管_CS 因为_P 麦克风_NN 的_DEG 位置_NN 而_MSP 变得_VV 很_AD 困难_VA 。_PU
+哪_DT 条_M 路_NN 是_VC 去_VV 清水寺_NR 的_DEG ？_PU
+打扰_NN 了_AS 请_VV 问到_VV 清水寺_NR 要_VV 多_AD 长_JJ 时间_NN ？_PU
