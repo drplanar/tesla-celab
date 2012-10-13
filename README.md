@@ -8,7 +8,8 @@ metric as describe in the ACL 2012 paper.
     Word Boundaries. Chang Liu and Hwee Tou Ng. 2012. In Proceedings of the
     50th Annual Meeting of the Association for Computational Linguistics.
 
-The contents of the release are:
+Contents
+--------
 
 - `scripts/`: the implementation is a single file tc-match.py
 - `resources/`: the CILIN Chinese synonym dictionary. Required by tc-match.py.
@@ -30,12 +31,15 @@ sentence and the system-generated translation. The score is between 0 and 1.
 
 All files are encoded in UTF-8.
 
-If you use TESLA-CELAB in your research, please cite the ACL 2012 paper
-mentioned above. Suggestions and comments are most welcome; please send them to
-liuchangjohn@gmail.com.
-
 Dependencies
 ------------
 
 TESLA-CELAB depends on cvxopt to solve the linear programming problem. You can
-download and install cvxopt at http://abel.ee.ucla.edu/cvxopt/.
+download cvxopt at http://abel.ee.ucla.edu/cvxopt/.
+
+Contact
+-------
+
+If you use TESLA-CELAB in your research, please cite the ACL 2012 paper
+mentioned above. Suggestions and comments are most welcome; please send them to
+liuchangjohn@gmail.com.
