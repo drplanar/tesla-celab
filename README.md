@@ -43,3 +43,9 @@ Contact
 If you use TESLA-CELAB in your research, please cite the ACL 2012 paper
 mentioned above. Suggestions and comments are most welcome; please send them to
 liuchangjohn@gmail.com.
+
+License
+-------
+
+The software is free for non-commercial use. For commercial use, please contact
+the authors.
