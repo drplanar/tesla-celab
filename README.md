@@ -33,3 +33,9 @@ All files are encoded in UTF-8.
 If you use TESLA-CELAB in your research, please cite the ACL 2012 paper
 mentioned above. Suggestions and comments are most welcome; please send them to
 liuchangjohn@gmail.com.
+
+Dependencies
+------------
+
+TESLA-CELAB depends on cvxopt to solve the linear programming problem. You can
+download and install cvxopt at http://abel.ee.ucla.edu/cvxopt/.
