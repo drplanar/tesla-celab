@@ -1,4 +1,30 @@
 tesla-celab
 ===========
 
-TESLA-CELAB
+This is the implementation of the TESLA-CELAB machine translation evaluation
+metric as describe in the ACL 2012 paper.
+
+    Character-Level Machine Translation Evaluation for Languages with Ambiguous
+    Word Boundaries. Chang Liu and Hwee Tou Ng. 2012. In Proceedings of the
+    50th Annual Meeting of the Association for Computational Linguistics.
+
+The contents of the release are:
+
+- scripts/: the implementation is a single file tc-match.py
+- resources/: the CILIN Chinese synonym dictionary. Required by tc-match.py.
+- testdata/: test data and sample usage.
+
+As an example, go to testdata directory, run example.sh and the output should
+match scores-output exactly. The input files are Chinese texts where characters
+are separated by single spaces. The reason the separation is not done
+automatically is that even in character-based Chinese segmentation, one segment
+is not equivalent to one UTF character. For example, in the following sentence,
+'500' could be considered a single segment depending on your objectives.
+
+    我 想 要 一 把 500 日 元 的 扇 子 。
+
+All files are encoded in UTF-8.
+
+If you use TESLA-CELAB in your research, please cite the ACL 2012 paper
+mentioned above. Suggestions and comments are most welcome; please send them to
+liuchangjohn@gmail.com.
